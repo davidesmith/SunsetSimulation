@@ -4,6 +4,7 @@ Sunset Crater Visitor Center 3D eruption flyover exhibit touchscreen overlay
 * David Smith
 * Joseph Davidson
 * Logan McCollough
+
 Electric Life Engineering
 602-920-8257
 david.earl.smith@gmail.com
